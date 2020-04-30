@@ -8,7 +8,7 @@ __This is some of the awesome food im going to buy.__
   <li> Nachos </li>
   <li> Coldcuts </li>
   </ol>
-|Food| Food's Price|
+|**Food**| **Food's Price**|
 |:---|:------------|
 |Cheese| $2.50|
 |Burger| $3.00|
