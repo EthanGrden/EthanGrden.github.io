@@ -8,12 +8,25 @@ __This is some of the awesome food im going to buy.__
   <li> Nachos </li>
   <li> Coldcuts </li>
   </ol>
-|Food|Food's Price|
-|:---|:------------|
-|Cheese| $2.50|
-|Burger| $3.00|
-|Nachos| $4.00|
-|Coldcuts| $2.50|
+<table style="width:100%">
+  <tr>
+    <th>Food</th>
+    <th>Price</th>
+   
+  </tr>
+  <tr>
+    <td>Cheese</td>
+    <td>$2.50</td>
+    <td>Burger</td>
+    <td>$3.00</td>
+    <td>Nachos</td>
+  <td>$4.00</td>
+  </tr>
+  <tr>
+    <td>Coldcuts</td>
+    <td>2.50</td>
+  </tr>
+</table>
 
 
 
