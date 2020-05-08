@@ -17,15 +17,15 @@ __This is some of the awesome food im going to buy.__
   <tr>
     <td>Cheese</td>
     <td>$2.50</td>
-    <td>Burger</td>
-    <td>$3.00</td>
-    <td>Nachos</td>
-  <td>$4.00</td>
+   <td>$4.00</td>
   </tr>
   <tr>
     <td>Coldcuts</td>
     <td>2.50</td>
   </tr>
+  <tr>
+  <td>Burger</td>
+  <td>$3.00</td>
 </table>
 
 
