@@ -17,7 +17,6 @@ __This is some of the awesome food im going to buy.__
   <tr>
     <td>Cheese</td>
     <td>$2.50</td>
-   <td>$4.00</td>
   </tr>
   <tr>
     <td>Coldcuts</td>
@@ -26,6 +25,10 @@ __This is some of the awesome food im going to buy.__
   <tr>
   <td>Burger</td>
   <td>$3.00</td>
+  </tr>
+  <tr>
+  <td>Nachos</td>
+  <td>$4.00</td>
 </table>
 
 
